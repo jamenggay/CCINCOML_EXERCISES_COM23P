@@ -1,0 +1,14 @@
+Pseudocode:
+
+1. Place your bet
+
+2. Wait for the card to be shuffled and distributed to each player
+
+3. Check the value of your card by adding them
+
+4. IF sum is greater than or equal to 12 THEN
+   CHOOSE to STAND
+   ELSE
+   CHOOSE to HIT and repeat step 3 to 4
+
+5. Check result

@@ -1,0 +1,12 @@
+Pseudocode:
+
+OUTPUT “Enter a number: ”
+
+num <-- user input
+
+IF num is divided to 2 and the reminder is equal to zero THEN
+OUTPUT  num “ is even”
+
+ELSE
+OUTPUT num “  is odd”
+
